@@ -10,10 +10,11 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+typography_spectrum: 0.4953561
 color:
-  saturation: 0
+  saturation: 0.5179211
   brandStrength: 0
-  lightness: 1
+  lightness: 0.5179211
   brandColors:
     - '#ADD7F6'
     - '#87BFFF'
@@ -21,6 +22,5 @@ color:
     - '#2667FF'
     - '#3B28CC'
   rhythmicContrast: 0
-typography_spectrum: 0.4953561
 layout_spectrum: 0.8148226
 name: J. Travis Duncan
