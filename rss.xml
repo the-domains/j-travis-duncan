@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[J. Travis Duncan]]></title>
+        <description><![CDATA[J. Travis Duncan]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 20 May 2016 14:36:47 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Reminiscing at River Walk]]></title>
+            <description><![CDATA[<article><h1>Reminiscing at River Walk</h1><p>Acrylic (16x20)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1ce9c3a9c20efa5f911ef721e1f2f13bdae1e06e.jpg"></article>]]></description>
+            <link>undefinedreminiscing-at-river-walk/index.html</link>
+            <guid isPermaLink="false">b7dad6fc-038c-42ad-ae43-5b782dd662df</guid>
+            <pubDate>Fri, 20 May 2016 14:36:45 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
