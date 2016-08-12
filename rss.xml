@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[J. Travis Duncan]]></title>
         <description><![CDATA[J. Travis Duncan]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/j-travis-duncan/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 20 May 2016 14:36:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 12 Aug 2016 14:22:32 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/j-travis-duncan/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[New art prints available for those college football fans, especially of the Georgia Bulldogs. (inspired artwork) #UGA #GeorgiaBulldogs #football #SEC #collegefootball #Dawgs ]]></title>
+            <description><![CDATA[<article><h1>New art prints available for those college football fans, especially of the Georgia Bulldogs. (inspired artwork) #UGA #GeorgiaBulldogs #football #SEC #collegefootball #Dawgs </h1><p>Sic Em is a piece of digital artwork by J Travis Duncan which was uploaded on August 11th, 2016. The digital art may be purchased as wall art, home decor, apparel, phone cases, greeting cards, and more. All products are produced on-demand and shipped worldwide within 2 - 3 business days.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d6b6945ce4a435e65969e111d921e8f2/noop.jpg?input=http%3A%2F%2Fimages.fineartamerica.com%2Fimages%2Fartworkimages%2Fmediumlarge%2F1%2Fsic-em-j-travis-duncan.jpg"></article>]]></description>
+            <link>http://fineartamerica.com/featured/sic-em-j-travis-duncan.html</link>
+            <guid isPermaLink="false">9188393c-0c4d-4046-9a52-94ca77607cb0</guid>
+            <pubDate>Fri, 12 Aug 2016 14:22:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Reminiscing at River Walk]]></title>
             <description><![CDATA[<article><h1>Reminiscing at River Walk</h1><p>Acrylic (16x20)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1ce9c3a9c20efa5f911ef721e1f2f13bdae1e06e.jpg"></article>]]></description>
-            <link>undefinedreminiscing-at-river-walk/index.html</link>
+            <link>https://thegrid.ai/j-travis-duncan/reminiscing-at-river-walk/index.html</link>
             <guid isPermaLink="false">b7dad6fc-038c-42ad-ae43-5b782dd662df</guid>
             <pubDate>Fri, 20 May 2016 14:36:45 GMT</pubDate>
         </item>
